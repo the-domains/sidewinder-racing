@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8911816
+  lightness: 0.6559139
+  brandStrength: 0.7401434
+  brandColors:
+    - '#776D5C'
+    - '#A5A299'
+    - '#FFFFFF'
+    - '#5491F3'
+    - '#FC6D77'
+  rhythmicContrast: 0.7293907
+typography_spectrum: 0.1111111
+name: Sidewinder Racing
