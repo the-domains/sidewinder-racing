@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1111111
 color:
-  saturation: 0.8911816
-  lightness: 0.6559139
+  saturation: 0.3100359
   brandStrength: 0.7401434
+  lightness: 0.2992831
   brandColors:
     - '#776D5C'
     - '#A5A299'
     - '#FFFFFF'
     - '#5491F3'
     - '#FC6D77'
-  rhythmicContrast: 0.7293907
-typography_spectrum: 0.1111111
+  rhythmicContrast: 0.3422939
+layout_spectrum: 1
 name: Sidewinder Racing
